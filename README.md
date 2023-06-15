@@ -6,7 +6,7 @@ Management interface for reviews
 ## Build tools
 
 - Node
-- Webpack
+- Webpack.
 
 ## Tech stack
 
